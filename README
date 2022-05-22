@@ -1,0 +1,9 @@
+We were having some trouble with linking the GitHub respository and Android Stuido, so we just submitted a zip file containing all of our code.
+
+To see our Java classes:
+app > src > main > java > com > example > loanforum
+
+To see our XML files:
+app > src > main > res
+
+We apologize for the inconvenience.
